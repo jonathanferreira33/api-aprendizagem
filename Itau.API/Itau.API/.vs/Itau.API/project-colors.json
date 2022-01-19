@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47090bc7-ce2b-4d1b-b0fa-905b84dabc4f": {
+      "ProjectGuid": "47090bc7-ce2b-4d1b-b0fa-905b84dabc4f",
+      "DisplayName": "Itau.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
